@@ -79,7 +79,7 @@ customer-segmentation-ltv/
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 2. Run Streamlit app
 streamlit run app.py
 
