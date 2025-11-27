@@ -80,10 +80,10 @@ customer-segmentation-ltv/
 ```bash
 pip install -r requirements.txt
 
-### 2. Run Streamlit app
+2. Run Streamlit app
 streamlit run app.py
 
-### 3. Open in browser
+3. Open in browser
 Streamlit will open automatically or you can visit:
 http://localhost:8501/
 
