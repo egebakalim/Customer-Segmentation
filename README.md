@@ -59,6 +59,7 @@ An interactive dashboard that includes:
 ---
 
 ## 🗂 Project Structure
+```
 customer-segmentation-ltv/
 │
 ├── notebooks/
@@ -70,7 +71,7 @@ customer-segmentation-ltv/
 ├── scaler.pkl # StandardScaler for model
 │
 └── README.md
-
+```
 
 ---
 
